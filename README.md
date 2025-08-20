@@ -23,7 +23,7 @@ The project fulfills the requirements of an assignment to create a reporting fea
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/princebabou/Django_hdrm.git
-   cd acc-project
+   cd Django_hdrm
    ```
 
 2. **Install Dependencies**:
